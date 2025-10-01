@@ -1,1 +1,1 @@
-"este es el archivo de la versión master"
+"hola"
