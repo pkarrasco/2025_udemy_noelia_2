@@ -1,2 +1,11 @@
 Estoy queriendo fusionar las ramas
+
 Estoy haciendo un cambio en local para generar conflicto
+
+Cambio en la wb
+
+hice un pull para bajar las versiones
+abrí el archivo con code anotacion.txt y luego edité el archivo y lo guardé e hice:
+- add
+- commit
+- push
