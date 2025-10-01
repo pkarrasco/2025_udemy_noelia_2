@@ -1,1 +1,2 @@
 Estoy queriendo fusionar las ramas
+Estoy haciendo un cambio en local para generar conflicto
